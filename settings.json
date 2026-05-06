@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "govnoed1337",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "mrcrabs.aternos.me",
+    "port": 54495,
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
@@ -30,8 +30,8 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "илья гавно",
+        "илья деич дурак тупица",
         "I like to play Minecraft!"
       ]
     },
